@@ -53,4 +53,4 @@ console.log({
     partTwo: countTotalIds(ranges),
 });
 
-// author's note: tried enumerating into sets, tried sharding the sets with a modulo key + buckets; there is not enough memory on this earth to do that
+// author's note: tried enumerating into sets, tried sharding the sets with a modulo key + buckets; there is not enough memory in this laptop to do such things
